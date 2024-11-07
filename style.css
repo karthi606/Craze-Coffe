@@ -1,0 +1,583 @@
+#one{
+  margin-left: 50%;
+    display: inline;
+    height: 50px;
+    width: 120px;
+}
+.navbar-text{
+  margin-right: 10%;
+  
+  border: 2px solid rgb(28, 18, 18);
+  padding: 5px;
+  
+  border-radius: 7px;
+  background-color: rgb(196, 97, 26);
+  color: white;
+}
+.navbar-text:hover{
+  cursor: pointer;
+  border: 2px solid rgb(186, 136, 9);
+  background-color: rgb(19, 11, 11);
+  color: rgb(186, 136, 9);
+}
+
+#name{ border-radius: 15px;
+    opacity: 0.5;
+  padding: 5px;}  
+  #num{ border-radius: 15px;
+    opacity: 0.5;
+  padding: 5px;}    
+  #mail{ border-radius: 15px;
+    opacity: 0.5;
+  padding: 5px;}    
+  #pass{ border-radius: 15px;
+    opacity: 0.5;
+  padding: 5px;} 
+  #sp{
+    border: 1px solid brown;
+    background-color: chocolate;
+    color: white;
+  }
+  #sp:hover{
+    border: 1px solid black;
+    background-color: brown;
+    color: black;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    cursor: pointer;
+  }
+  .para{margin-left: 20px;
+  margin-top: 30px;
+width: 800px;
+color:  rgb(239, 221, 115);}
+#spe{
+padding: 7px;
+margin-left: 50px;
+    border: 1px solid rgb(39, 33, 33);
+    background-color: brown;
+    color: white;
+   
+  }
+  #spe:hover{
+    border: 2px solid,rgb(181, 151, 6);
+    background-color: rgb(28, 25, 23);
+    color: rgb(181, 151, 6);
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    cursor: pointer;
+}
+#sp{
+  padding: 4px;
+  margin-left: 180px;
+      border: 1px solid rgb(39, 33, 33);
+      background-color: brown;
+      color: white;
+     
+    }
+    #sp:hover{
+      border: 1px solid,rgb(181, 151, 6);
+     
+      transition-timing-function: ease-in;
+      cursor: pointer;
+  }
+#face{
+  height: 50px;
+  width: 50px;
+  border: 5px solid rgb(224, 190, 78);
+  border-radius: 50%;
+  margin-left: 5%;
+
+}
+#face:hover{
+  transform: scale(1.4);
+  transition-duration: 0.5s;
+  height: 50px;
+  width: 50px;
+  border: 5px solid rgb(151, 121, 22);
+  border-radius: 50%;
+  margin-left: 5%;
+cursor: pointer;
+}
+#hoverr{
+  border: 5px solid rgb(224, 206, 103);
+  border-radius: 5px;
+ height: 290px;
+ width: 450px;
+}
+#hoverr:hover{transform: scale(0.9);
+  cursor: pointer;
+  transition-duration: 0.5s;
+
+}
+#bg{ margin-left: 5%;
+margin-top: 5%;
+padding: 7px;
+border: 2px solid rgb(179, 179, 177) ;
+  border-radius: 5px;
+  background:transparent;}
+#sid{
+  height: 70px;
+width: 120px;
+border: 3px solid black;
+border-radius: 10%;}
+#res{ border: 2px solid rgb(179, 179, 177) ;
+  border-radius: 5px;
+  margin-left: 5%;
+  padding: 2%;
+  width: 250px;
+  background:transparent;
+}
+#rest{ border: 2px solid  rgb(179, 179, 177) ;
+  margin-left: 5%;
+  padding: 2%;
+  border-radius: 5px;
+  width: 250px;
+  background:transparent;
+  
+}
+#reso{ border: 2px solid  rgb(179, 179, 177) ;
+  margin-left: 5%;
+  padding: 2%;
+  border-radius: 5px;
+  width: 250px;
+  background:transparent;
+color:white;}
+#resoe{ border: 2px solid  rgb(179, 179, 177) ;
+  margin-left: 5%;
+  padding: 2%;
+  border-radius: 5px;
+  width: 250px;
+  background:transparent;
+color:white;}
+
+  #resol{ border: 2px solid  rgb(179, 179, 177) ;
+   color: white;
+    padding: 2%;
+    border-radius: 5px;
+    width: 150px;
+    background:transparent;}
+    #rs{ border: 2px solid  rgb(179, 179, 177) ;
+   color: white;
+      padding: 2%;
+      border-radius: 5px;
+      width: 250px;
+      margin-left: 5%;
+      background:transparent;}
+      #rs1{ border: 2px solid  rgb(179, 179, 177) ;
+        color: white;
+   margin-left: 5%;
+        padding: 2%;
+        border-radius: 5px;
+        width: 250px;
+        background:transparent;}
+        #rs2{ border: 2px solid  rgb(179, 179, 177) ;
+          color: white;
+   margin-left: 5%;
+          padding: 2%;
+          border-radius: 5px;
+          width: 250px;
+          background:transparent;}
+          #rs3{ border: 2px solid  rgb(179, 179, 177) ;
+            color: white;
+   margin-left: 5%;
+            padding: 2%;
+            border-radius: 5px;
+            width: 250px;
+            background:transparent;}
+            #rs4{ border: 2px solid  rgb(179, 179, 177) ;
+              color: white;
+   margin-left: 5%;
+              padding: 2%;
+              border-radius: 5px;
+              width: 250px;
+              background:transparent;}
+
+#reste{ border: 2px solid rgb(179, 179, 177) ;
+  margin-left: 5%;
+  padding: 2%;
+  border-radius: 5px;
+  width:540px;
+  background:transparent;
+  
+}
+#txt{ border: 2px solid  rgb(179, 179, 177) ;
+  margin-left: 5%;
+  padding: 2.5%;
+  width:540px;
+  background:transparent;}
+  
+#tab{
+  margin-left: 10%;
+  border: 2px solid rgb(28, 18, 18);
+  padding: 12px;
+  border-radius: 7px;
+  background-color: rgb(196, 97, 26);
+  color: white;
+  width: 110px;
+}
+#tab:hover{
+  border: 2px solid rgb(186, 136, 9);
+  background-color: rgb(19, 11, 11);
+  color: rgb(186, 136, 9);
+  width: 110px;
+
+  cursor: pointer;
+}
+#tabe{
+  
+  margin-left: 5%;
+  border: 2px solid rgb(28, 18, 18);
+  padding: 10px;
+  width: 110px;
+  border-radius: 7px;
+  background-color: rgb(118, 58, 15);
+  color: rgb(226, 222, 222);
+}
+#tabe:hover{
+  width: 110px;
+  border: 2px solid rgb(186, 136, 9);
+  background-color: rgb(19, 11, 11);
+  color: rgb(186, 136, 9);
+
+  cursor: pointer;
+}
+#hed{
+  border: 2px solid rgb(3, 3, 3);
+  border-radius: 20px;
+  padding: 2px;
+  display: inline;
+
+  margin-bottom: .5rem;
+   margin-left: 40%;
+    font-family: "Moirai One", system-ui;
+    color: rgb(226, 158, 11);
+   background-color: rgb(231, 220, 204);
+  
+}
+#hedd{
+font-weight: 1000;
+    text-shadow: 1px 2px 4px white;
+  padding: 2px;
+  display: inline;
+ 
+  margin-bottom: .5rem;
+   margin-left: 40%;
+    font-family: "Moirai One", system-ui;
+    color: rgb(235, 189, 91);
+   }
+#hm{
+  font-family:'Times New Roman', Times, serif; font-size: 19px; margin-left: 680px; color: rgb(213, 208, 204);}
+#hm:hover{ color: burlywood; cursor: pointer;}
+ #hm1{font-family:'Times New Roman', Times, serif; font-size: 19px; margin-left: 20px;color: rgb(213, 208, 204);}
+ #hm1:hover{ color: burlywood; cursor: pointer;}
+#bg1{
+  color: rgb(215, 212, 212);
+margin-left: 75px; 
+}
+ #coll{
+  
+  background: transparent;
+  border: 5px solid  rgb(224, 206, 103) ; border-radius: 10px; margin-left :7%; width: 300px; height: 400px;
+ }
+ #coll:hover{
+  transition-duration: 0.5s;
+  transform: scale(1.0);
+  height: 400px;
+  width: 300px;
+  border: 5px solid rgb(35, 31, 7);
+  border-radius: 9px;
+  box-shadow: 2px 2px 5px gold;
+cursor: pointer;}
+  
+ #hov1{
+color: rgb(239, 237, 232);
+ }
+ #coll1{
+ height: 400px;
+ width: 300px;
+ border: 5px solid rgb(224, 206, 103);
+ border-radius: 5px;
+ }
+ #coll1:hover{
+  cursor: pointer;
+  transition-duration: 0.5s;
+  transform: scale(1.0);
+  height: 400px;
+  width: 300px;
+  border: 5px solid rgb(35, 31, 7);
+  border-radius: 9px;
+  box-shadow: 2px 2px 5px gold;
+  }
+  #join{
+    margin-left: 50px; margin-top: 220px; font-size: 30px;
+    color: white;
+    font-family: fantasy;
+  }
+  #join:hover{
+    cursor: pointer;
+    transition-duration: 0.5s;
+    margin-left: 50px; margin-top: 220px; font-size: 30px;
+    color: rgb(238, 203, 106);
+  }
+  #clmn{
+    height: 420px ;width: 280px; margin-left:1%; background-color: black; border-radius: 7px;
+  }
+  #clmno{
+   height: 420px ;width: 280px; margin-left: 3%;background-color: black;border-radius: 7px;
+  }
+  #clmnp{
+    height: 420px ;width: 280px; margin-left: 4%;background-color: black;border-radius: 7px;
+  }  
+  #clmnq{
+     height: 420px ;width: 280px; margin-left: 3%;background-color: black;border-radius: 7px;
+  } 
+  #menu{
+
+    border-radius: 5px;
+  }
+  #menu:hover{
+    transition-duration: 0.5s;
+   transform: scale(1.1);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #menu1{
+    height: 200px;
+    width: 260px;
+    border-radius: 5px;
+  }
+  #menu1:hover{
+    transition-duration: 0.5s;
+   transform: scale(1.1);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #menu2{
+    height: 200px;
+    width: 260px;
+    border-radius: 5px;
+  }
+  #menu2:hover{
+    transition-duration: 0.5s;
+   transform: scale(1.1);
+    border-radius: 5px;
+    cursor: pointer;
+  }  #menu3{
+    height: 200px;
+    width: 260px;
+    border-radius: 5px;
+  }
+  #menu3:hover{
+    transition-duration: 0.5s;
+   transform: scale(1.1);
+    border-radius: 5px;
+  cursor: pointer;}
+    
+  #jrr{
+    color: white;
+    text-align: center;
+  }
+  #jrr:hover{
+    cursor: pointer;
+    color:rgb(236, 220, 133);
+    transition-duration: 0.2s;
+    text-align: center;
+  }
+  #prr{
+    color: white;
+    text-align: center;
+    transition-duration: 0.2s;
+  }
+  #prr:hover{
+    color:rgb(236, 220, 133);
+    text-align: center;
+    cursor: pointer;
+  
+  }
+  #or{ margin-left: 30%;
+  text-decoration: none;
+    border: 2px solid rgb(236, 220, 133);
+    padding: 3px;
+    border-radius: 7px;
+    background-color: rgb(23, 22, 21);
+    color:rgb(236, 220, 133)}
+    #or:hover{ margin-left: 30%;
+      text-decoration: none;
+      transition-duration: 0.2s;
+      border: 2px solid rgb(12, 12, 12);
+      padding: 4px;
+      border-radius: 7px;
+      background-color: rgb(101, 51, 1);
+      color:rgb(245, 244, 240);
+    cursor: pointer;}
+      #op{
+        margin-top: 9px;
+        text-align: center;
+        text-decoration: underline;
+        color: rgb(240, 221, 114);
+      }
+      #op:hover{
+        margin-top: 9px;
+        text-align: center;
+        text-decoration: underline;
+        color: rgb(245, 245, 245);
+        transition-duration: 0.5s;
+        cursor: pointer;
+      }
+      #pp{
+        margin-top: 9px;
+        text-align: center;
+        
+        color: rgb(245, 245, 245);
+      }
+      #pp:hover{
+        margin-top: 9px;
+        text-align: center;
+         color:rgb(240, 221, 114);
+        cursor: pointer;}
+      #slide{
+        height: 620px; 
+        width:1200px;
+         border: 2px;
+         border-radius: 5px;
+      }
+      #buu{
+        color: rgb(249, 236, 164);
+      }
+      #ooo{
+        color: white;
+        display: inline;
+      }
+      #oooo{
+        color:rgb(249, 236, 164);
+        font-size: 37px;
+
+      }
+      #akk{
+        height: 410px;
+        width: 290px;
+        margin-left:- 10px;
+        display: inline;
+        
+       
+      }
+     
+      
+      #pl{
+       display: flex;
+        margin-top: -100px;
+        height: 100px;
+        width: 290px;
+        border-radius: 25px;
+        backdrop-filter: blur(30px);
+      }
+ 
+      #we{
+        color: rgb(241, 240, 235);
+
+   margin-left: 38%;
+   margin-top: 25px;
+      }
+      
+   #hb{
+    color: rgb(252, 252, 252);
+    margin-left: 10%;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+   }
+   #hhe{
+    color: rgb(171, 171, 171);
+  
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+   }
+  #tabeul{
+    margin-left: 5%;
+    margin-top: 5%;
+    border: 2px;
+    padding: 2%;
+    width: 190px;
+    height: 48px;
+    background-color: brown;
+    color: rgb(248, 247, 243);
+  }    
+  #tabeul:hover{
+  cursor: pointer;
+  margin-left: 5%;
+    margin-top: 5%;
+    border: 2px;
+    padding: 2%;
+    width: 190px;
+    height: 48px;
+    background-color: rgb(232, 228, 228);
+    color: rgb(10, 9, 9);
+    transition-duration: 0.5s;
+  }    
+  #asd{
+    margin-left: 9%;
+    color:gold;
+    font-family: cursive;
+  }
+#icom{
+   border: 1px solid rgb(229, 218, 218); padding: 30px;
+}
+#icom:hover{
+  border: 1px solid rgb(229, 218, 218); padding: 30px;
+  transform: box rotate 90deg;;cursor: pointer;
+}
+.box{
+  min-height: 30px;
+  background-color: rgb(187, 21, 21);
+}
+.content{
+  margin-top: 20px;
+  width: 90px;
+  height: 90px;
+  margin-left: 50px;
+  position: relative;
+}
+.content::before{
+  content: "";
+  width: 100px;
+  height: 100px;
+  border: 2px solid rgb(224, 221, 221);
+  position:absolute;
+  transition: all.4s;
+  
+}
+.content:hover::before{
+transform: rotate(45deg);
+background-color: burlywood;
+border: 2px solid rgb(0, 0, 0);
+opacity: 0.5;
+}
+#iden{
+  margin-top: 20%;
+  color: rgb(248, 224, 88);;
+  text-align: center;
+}
+#pok{
+  color: white;
+  text-align: center;
+}
+.navee{
+  border: 1px solid brown;height: 35px; border-radius: 5%;background-color: brown; color: white;
+  text-decoration: none; padding: 4px;
+  margin-top: 6px;
+}
+.container{
+  flex-direction: row;
+  
+}
+#asdd{height: 170px;
+width: 240px;}
+#asdd:hover{height: 170px;
+  width: 240px;
+transform: scale(1.1);
+transition-duration: 0.5s;}
+a:after{
+  position:absolute;
+  content: "";
+  height: 3px;
+  width: 100%;
+}
